@@ -6,7 +6,7 @@ To run the program
 
 Example:
 
-```python checkersAI.py --inputfile checkers1.txt --outputfile checkersout.txt
+```python checkersAI.py --inputfile checkers1.txt --outputfile checkersout.txt```
 
 Takes in a valid board configuration
 Returns the optimal string of moves for Red to win the game given Black plays optimally.
